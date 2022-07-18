@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(68, 177, 240);
+    color: rgb(102, 101, 101);
+}
+
+h1{
+    font-size: 50px;
+}
+
+p{
+    color: blueviolet;
+}
