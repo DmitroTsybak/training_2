@@ -9,4 +9,11 @@ h1{
 
 p{
     color: blueviolet;
+    font-size: 25px;
+}
+
+.second{
+    margin-top: 50px;
+    color: gray;
+    font-size: 30px;
 }
