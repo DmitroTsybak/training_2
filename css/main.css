@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(68, 177, 240);
+    background-color: tomato;
     color: rgb(102, 101, 101);
 }
 
@@ -8,12 +8,12 @@ h1{
 }
 
 p{
-    color: blueviolet;
+    color: teal;
     font-size: 25px;
 }
 
 .second{
     margin-top: 50px;
-    color: gray;
+    color: black;
     font-size: 30px;
 }
