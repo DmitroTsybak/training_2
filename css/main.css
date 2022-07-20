@@ -1,6 +1,7 @@
 body{
     background-color: tomato;
     color: rgb(102, 101, 101);
+    padding-top: 50px;
 }
 
 h1{
@@ -15,5 +16,5 @@ p{
 .second{
     margin-top: 50px;
     color: black;
-    font-size: 30px;
+    font-size: 40px;
 }
