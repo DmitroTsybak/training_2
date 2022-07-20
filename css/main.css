@@ -17,3 +17,13 @@ p{
     color: gray;
     font-size: 30px;
 }
+
+li.main{
+    font-weight: 700;
+    color: brown;
+
+}
+
+li {
+    list-style: none;
+}
